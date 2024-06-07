@@ -1,3 +1,5 @@
+<h2>Java Calculator</h2>
+
 Fully functional simple java based calculator capable of,
    - Adding
    - Subtracting
